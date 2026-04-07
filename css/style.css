@@ -367,12 +367,13 @@
 .bg-breadcrumb {
 	position: relative;
 	padding: 145px 0 50px 0;
-    background: linear-gradient(rgba(242, 139, 0, 0.2), rgba(242, 139, 0, 0.3)), url(../img/logo-oasis.jpeg);
+    background: linear-gradient(rgba(0, 0, 0, 0.274), rgba(90, 52, 2, 0.5)), url(../img/bg-oasis.png);
     background-position: center top;
     background-repeat: no-repeat;
     background-attachment: fixed;
     
 }
+
 
 @media (max-width: 992px) {
     .bg-breadcrumb {
